@@ -1,0 +1,22 @@
+"""15×15 调大 step_limit=8000，fw3，2 局，看能否自然结束。"""
+import os, sys, time
+root = r"D:\Duobao-workpalce\NN-net-learn\snake-main"
+os.chdir(root); sys.path.insert(0, root)
+from rl_env import SnakeEnv
+from cnn_beam_agent import CNNBeamAgent
+
+agent = CNNBeamAgent(depth=10, beam=2, space_weight=8.0,
+                     tail_pen=5.0, food_weight=3.0)
+for seed in (5000, 5002):
+    env = SnakeEnv(rows=15, cols=15, state_mode="grid",
+                   deadline_growth=1.0, step_limit=8000)
+    s = env.reset(seed); t0 = time.time(); nsteps = 0
+    while True:
+        a = agent.act(s, training=False, env=env)
+        nsteps += 1
+        s, _, done, info = env.step(a)
+        if done:
+            print(f"seed{seed} 吃{info['score']} 步数{nsteps} "
+                  f"每苹果={nsteps/max(1,info['score']):.1f} "
+                  f"死因={env.death_cause} 耗时={time.time()-t0:.0f}s")
+            break

@@ -1,0 +1,1091 @@
+[2026-11-09 21:56:18] ===== 新一轮训练开始 =====
+[2026-11-09 21:56:18] generation: 1, record: 1, best score: 1, average score: 0.04
+[2026-11-09 21:56:22] generation: 2, record: 2, best score: 2, average score: 0.08
+[2026-11-09 21:56:23] generation: 3, record: 2, best score: 2, average score: 0.07
+[2026-11-09 21:56:26] generation: 4, record: 2, best score: 2, average score: 0.07
+[2026-11-09 21:56:27] generation: 5, record: 2, best score: 2, average score: 0.09
+[2026-11-09 21:56:29] generation: 6, record: 2, best score: 2, average score: 0.09
+[2026-11-09 21:56:30] generation: 7, record: 2, best score: 2, average score: 0.08
+[2026-11-09 21:56:32] generation: 8, record: 2, best score: 2, average score: 0.09
+[2026-11-09 21:56:33] generation: 9, record: 2, best score: 2, average score: 0.12
+[2026-11-09 21:56:34] generation: 10, record: 4, best score: 4, average score: 0.11
+[2026-11-09 21:56:35] generation: 11, record: 4, best score: 3, average score: 0.15
+[2026-11-09 21:56:38] generation: 12, record: 4, best score: 2, average score: 0.14
+[2026-11-09 22:01:45] generation: 13, record: 4, best score: 2, average score: 0.16
+[2026-11-09 22:01:46] generation: 14, record: 4, best score: 3, average score: 0.25
+[2026-11-09 22:01:48] generation: 15, record: 4, best score: 3, average score: 0.23
+[2026-11-09 22:01:49] generation: 16, record: 4, best score: 2, average score: 0.26
+[2026-11-09 22:01:50] generation: 17, record: 4, best score: 3, average score: 0.27
+[2026-11-09 22:01:51] generation: 18, record: 4, best score: 3, average score: 0.25
+[2026-11-09 22:01:55] 训练结束，返回主菜单。
+[2026-11-09 22:18:38] ===== 新一轮训练开始 =====
+[2026-11-09 22:18:38] generation: 1, record: 1, best score: 1, average score: 0.09
+[2026-11-09 22:18:42] generation: 2, record: 1, best score: 1, average score: 0.06
+[2026-11-09 22:18:45] generation: 3, record: 1, best score: 1, average score: 0.05
+[2026-11-09 22:18:49] generation: 4, record: 1, best score: 1, average score: 0.08
+[2026-11-09 22:18:52] generation: 5, record: 2, best score: 2, average score: 0.06
+[2026-11-09 22:18:57] generation: 6, record: 2, best score: 2, average score: 0.10
+[2026-11-09 22:19:00] generation: 7, record: 2, best score: 2, average score: 0.10
+[2026-11-09 22:19:05] generation: 8, record: 2, best score: 2, average score: 0.11
+[2026-11-09 22:19:08] generation: 9, record: 2, best score: 2, average score: 0.11
+[2026-11-09 22:19:12] generation: 10, record: 2, best score: 2, average score: 0.12
+[2026-11-09 22:19:16] generation: 11, record: 2, best score: 2, average score: 0.11
+[2026-11-09 22:19:20] generation: 12, record: 3, best score: 3, average score: 0.13
+[2026-11-09 22:19:24] generation: 13, record: 3, best score: 3, average score: 0.17
+[2026-11-09 22:19:29] generation: 14, record: 3, best score: 2, average score: 0.20
+[2026-11-09 22:19:33] generation: 15, record: 3, best score: 2, average score: 0.17
+[2026-11-09 22:19:37] generation: 16, record: 3, best score: 3, average score: 0.26
+[2026-11-09 22:19:42] generation: 17, record: 3, best score: 3, average score: 0.23
+[2026-11-09 22:19:46] generation: 18, record: 3, best score: 3, average score: 0.30
+[2026-11-09 22:19:51] generation: 19, record: 3, best score: 3, average score: 0.30
+[2026-11-09 22:19:56] generation: 20, record: 3, best score: 3, average score: 0.30
+[2026-11-09 22:20:00] generation: 21, record: 3, best score: 3, average score: 0.34
+[2026-11-09 22:20:05] generation: 22, record: 3, best score: 3, average score: 0.32
+[2026-11-09 22:20:09] generation: 23, record: 3, best score: 3, average score: 0.29
+[2026-11-09 22:20:15] generation: 24, record: 3, best score: 2, average score: 0.29
+[2026-11-09 22:20:19] generation: 25, record: 3, best score: 3, average score: 0.31
+[2026-11-09 22:20:24] generation: 26, record: 3, best score: 3, average score: 0.31
+[2026-11-09 22:20:28] generation: 27, record: 3, best score: 3, average score: 0.36
+[2026-11-09 22:20:32] generation: 28, record: 3, best score: 3, average score: 0.37
+[2026-11-09 22:20:37] generation: 29, record: 3, best score: 3, average score: 0.33
+[2026-11-09 22:20:42] generation: 30, record: 3, best score: 3, average score: 0.35
+[2026-11-09 22:20:46] generation: 31, record: 3, best score: 3, average score: 0.37
+[2026-11-09 22:20:50] generation: 32, record: 3, best score: 2, average score: 0.37
+[2026-11-09 22:20:54] generation: 33, record: 3, best score: 3, average score: 0.32
+[2026-11-09 22:20:59] generation: 34, record: 3, best score: 3, average score: 0.29
+[2026-11-09 22:21:04] generation: 35, record: 3, best score: 3, average score: 0.35
+[2026-11-09 22:21:08] generation: 36, record: 3, best score: 3, average score: 0.35
+[2026-11-09 22:21:12] generation: 37, record: 3, best score: 3, average score: 0.35
+[2026-11-09 22:21:17] generation: 38, record: 3, best score: 3, average score: 0.32
+[2026-11-09 22:21:20] 训练结束，返回主菜单。
+[2026-11-09 22:25:30] ===== 新一轮训练开始 =====
+[2026-11-09 22:25:30] generation: 1, record: 2, best score: 2, average score: 0.09
+[2026-11-09 22:25:31] generation: 2, record: 2, best score: 2, average score: 0.09
+[2026-11-09 22:25:31] generation: 3, record: 2, best score: 2, average score: 0.09
+[2026-11-09 22:25:32] generation: 4, record: 2, best score: 2, average score: 0.07
+[2026-11-09 22:25:32] generation: 5, record: 2, best score: 1, average score: 0.06
+[2026-11-09 22:25:33] generation: 6, record: 3, best score: 3, average score: 0.08
+[2026-11-09 22:25:33] generation: 7, record: 3, best score: 2, average score: 0.07
+[2026-11-09 22:25:34] generation: 8, record: 3, best score: 2, average score: 0.08
+[2026-11-09 22:25:35] generation: 9, record: 3, best score: 3, average score: 0.09
+[2026-11-09 22:25:35] generation: 10, record: 3, best score: 3, average score: 0.11
+[2026-11-09 22:25:36] generation: 11, record: 3, best score: 3, average score: 0.14
+[2026-11-09 22:25:37] generation: 12, record: 3, best score: 2, average score: 0.12
+[2026-11-09 22:25:37] generation: 13, record: 3, best score: 3, average score: 0.12
+[2026-11-09 22:25:38] generation: 14, record: 3, best score: 2, average score: 0.09
+[2026-11-09 22:25:38] generation: 15, record: 3, best score: 2, average score: 0.10
+[2026-11-09 22:25:39] generation: 16, record: 3, best score: 2, average score: 0.11
+[2026-11-09 22:25:39] generation: 17, record: 3, best score: 2, average score: 0.15
+[2026-11-09 22:25:40] generation: 18, record: 3, best score: 2, average score: 0.14
+[2026-11-09 22:25:40] generation: 19, record: 3, best score: 2, average score: 0.14
+[2026-11-09 22:25:41] generation: 20, record: 3, best score: 2, average score: 0.13
+[2026-11-09 22:25:41] generation: 21, record: 3, best score: 2, average score: 0.13
+[2026-11-09 22:25:42] generation: 22, record: 3, best score: 3, average score: 0.16
+[2026-11-09 22:25:42] generation: 23, record: 3, best score: 3, average score: 0.20
+[2026-11-09 22:25:43] generation: 24, record: 3, best score: 3, average score: 0.19
+[2026-11-09 22:25:44] generation: 25, record: 3, best score: 3, average score: 0.22
+[2026-11-09 22:25:45] generation: 26, record: 3, best score: 3, average score: 0.25
+[2026-11-09 22:25:45] generation: 27, record: 3, best score: 2, average score: 0.22
+[2026-11-09 22:25:46] generation: 28, record: 3, best score: 3, average score: 0.28
+[2026-11-09 22:25:47] generation: 29, record: 3, best score: 3, average score: 0.25
+[2026-11-09 22:25:48] generation: 30, record: 3, best score: 3, average score: 0.25
+[2026-11-09 22:25:48] generation: 31, record: 3, best score: 3, average score: 0.31
+[2026-11-09 22:25:49] generation: 32, record: 3, best score: 3, average score: 0.33
+[2026-11-09 22:25:50] generation: 33, record: 3, best score: 3, average score: 0.34
+[2026-11-09 22:25:51] generation: 34, record: 3, best score: 3, average score: 0.32
+[2026-11-09 22:25:51] generation: 35, record: 3, best score: 3, average score: 0.37
+[2026-11-09 22:25:53] generation: 36, record: 3, best score: 3, average score: 0.34
+[2026-11-09 22:25:53] generation: 37, record: 3, best score: 3, average score: 0.34
+[2026-11-09 22:25:54] generation: 38, record: 3, best score: 3, average score: 0.44
+[2026-11-09 22:25:55] generation: 39, record: 3, best score: 3, average score: 0.43
+[2026-11-09 22:25:56] generation: 40, record: 4, best score: 4, average score: 0.49
+[2026-11-09 22:25:56] generation: 41, record: 4, best score: 4, average score: 0.47
+[2026-11-09 22:25:57] generation: 42, record: 4, best score: 3, average score: 0.36
+[2026-11-09 22:25:58] generation: 43, record: 4, best score: 3, average score: 0.41
+[2026-11-09 22:25:58] generation: 44, record: 4, best score: 3, average score: 0.43
+[2026-11-09 22:25:59] generation: 45, record: 4, best score: 3, average score: 0.43
+[2026-11-09 22:26:00] generation: 46, record: 4, best score: 3, average score: 0.43
+[2026-11-09 22:26:00] generation: 47, record: 4, best score: 3, average score: 0.37
+[2026-11-09 22:26:01] generation: 48, record: 4, best score: 3, average score: 0.41
+[2026-11-09 22:26:02] generation: 49, record: 4, best score: 4, average score: 0.40
+[2026-11-09 22:26:03] generation: 50, record: 4, best score: 4, average score: 0.42
+[2026-11-09 22:26:04] generation: 51, record: 4, best score: 3, average score: 0.45
+[2026-11-09 22:26:04] generation: 52, record: 4, best score: 3, average score: 0.47
+[2026-11-09 22:26:05] generation: 53, record: 4, best score: 4, average score: 0.43
+[2026-11-09 22:26:06] generation: 54, record: 4, best score: 3, average score: 0.44
+[2026-11-09 22:26:07] generation: 55, record: 4, best score: 3, average score: 0.49
+[2026-11-09 22:26:07] generation: 56, record: 4, best score: 3, average score: 0.47
+[2026-11-09 22:26:08] generation: 57, record: 4, best score: 3, average score: 0.55
+[2026-11-09 22:26:08] generation: 58, record: 4, best score: 3, average score: 0.62
+[2026-11-09 22:26:09] generation: 59, record: 4, best score: 4, average score: 0.56
+[2026-11-09 22:26:10] generation: 60, record: 4, best score: 3, average score: 0.55
+[2026-11-09 22:26:10] generation: 61, record: 4, best score: 3, average score: 0.54
+[2026-11-09 22:26:11] generation: 62, record: 4, best score: 3, average score: 0.56
+[2026-11-09 22:26:12] generation: 63, record: 4, best score: 3, average score: 0.53
+[2026-11-09 22:26:12] generation: 64, record: 4, best score: 3, average score: 0.57
+[2026-11-09 22:26:13] generation: 65, record: 4, best score: 4, average score: 0.60
+[2026-11-09 22:26:14] generation: 66, record: 4, best score: 3, average score: 0.57
+[2026-11-09 22:26:15] generation: 67, record: 4, best score: 3, average score: 0.58
+[2026-11-09 22:26:15] generation: 68, record: 4, best score: 3, average score: 0.64
+[2026-11-09 22:26:16] generation: 69, record: 4, best score: 3, average score: 0.62
+[2026-11-09 22:26:17] generation: 70, record: 4, best score: 4, average score: 0.63
+[2026-11-09 22:26:18] generation: 71, record: 4, best score: 3, average score: 0.63
+[2026-11-09 22:26:18] generation: 72, record: 4, best score: 4, average score: 0.70
+[2026-11-09 22:26:19] generation: 73, record: 5, best score: 5, average score: 0.68
+[2026-11-09 22:26:20] generation: 74, record: 5, best score: 3, average score: 0.72
+[2026-11-09 22:26:21] generation: 75, record: 5, best score: 4, average score: 0.72
+[2026-11-09 22:26:22] generation: 76, record: 5, best score: 3, average score: 0.74
+[2026-11-09 22:26:23] generation: 77, record: 5, best score: 4, average score: 0.75
+[2026-11-09 22:26:24] generation: 78, record: 5, best score: 4, average score: 0.72
+[2026-11-09 22:26:25] generation: 79, record: 5, best score: 4, average score: 0.79
+[2026-11-09 22:26:26] generation: 80, record: 5, best score: 4, average score: 0.79
+[2026-11-09 22:26:27] generation: 81, record: 5, best score: 4, average score: 0.78
+[2026-11-09 22:26:29] generation: 82, record: 5, best score: 4, average score: 0.72
+[2026-11-09 22:26:30] generation: 83, record: 5, best score: 4, average score: 0.79
+[2026-11-09 22:26:31] generation: 84, record: 5, best score: 3, average score: 0.73
+[2026-11-09 22:26:31] generation: 85, record: 5, best score: 4, average score: 0.83
+[2026-11-09 22:26:33] generation: 86, record: 5, best score: 4, average score: 0.78
+[2026-11-09 22:26:34] generation: 87, record: 5, best score: 3, average score: 0.74
+[2026-11-09 22:26:35] generation: 88, record: 5, best score: 4, average score: 0.78
+[2026-11-09 22:26:36] generation: 89, record: 5, best score: 4, average score: 0.82
+[2026-11-09 22:26:37] generation: 90, record: 5, best score: 3, average score: 0.87
+[2026-11-09 22:26:38] generation: 91, record: 5, best score: 4, average score: 0.87
+[2026-11-09 22:26:39] generation: 92, record: 5, best score: 4, average score: 0.88
+[2026-11-09 22:26:40] generation: 93, record: 5, best score: 5, average score: 0.87
+[2026-11-09 22:26:42] generation: 94, record: 5, best score: 4, average score: 0.79
+[2026-11-09 22:26:43] generation: 95, record: 5, best score: 4, average score: 0.84
+[2026-11-09 22:26:44] generation: 96, record: 5, best score: 3, average score: 0.88
+[2026-11-09 22:26:45] generation: 97, record: 5, best score: 4, average score: 0.88
+[2026-11-09 22:26:46] generation: 98, record: 5, best score: 5, average score: 0.84
+[2026-11-09 22:26:47] generation: 99, record: 5, best score: 4, average score: 0.83
+[2026-11-09 22:26:48] generation: 100, record: 5, best score: 5, average score: 0.94
+[2026-11-09 22:26:52] 训练结束，返回主菜单。
+[2026-11-09 22:35:13] 加载第 310 代预训练基因（已知水平约 79 分）进行演示
+[2026-11-09 22:35:23] ===== 新一轮训练开始（从零随机初始化）=====
+[2026-11-09 22:35:23] generation: 1, record: 1, best score: 1, average score: 0.05
+[2026-11-09 22:35:24] generation: 2, record: 2, best score: 2, average score: 0.10
+[2026-11-09 22:35:24] generation: 3, record: 2, best score: 2, average score: 0.06
+[2026-11-09 22:35:25] generation: 4, record: 2, best score: 2, average score: 0.09
+[2026-11-09 22:35:25] generation: 5, record: 2, best score: 2, average score: 0.08
+[2026-11-09 22:35:26] generation: 6, record: 2, best score: 2, average score: 0.12
+[2026-11-09 22:35:26] generation: 7, record: 3, best score: 3, average score: 0.12
+[2026-11-09 22:35:27] generation: 8, record: 3, best score: 2, average score: 0.13
+[2026-11-09 22:35:27] generation: 9, record: 3, best score: 3, average score: 0.14
+[2026-11-09 22:35:28] generation: 10, record: 3, best score: 2, average score: 0.14
+[2026-11-09 22:35:28] generation: 11, record: 4, best score: 4, average score: 0.16
+[2026-11-09 22:35:28] 训练结束，返回主菜单。
+[2026-11-09 22:35:29] 加载第 310 代预训练基因（已知水平约 79 分）进行演示
+[2026-11-09 22:36:08] ===== 新一轮训练开始（从零随机初始化）=====
+[2026-11-09 22:36:08] generation: 1, record: 4, best score: 4, average score: 0.09
+[2026-11-09 22:36:09] generation: 2, record: 4, best score: 1, average score: 0.08
+[2026-11-09 22:36:09] generation: 3, record: 4, best score: 2, average score: 0.07
+[2026-11-09 22:36:10] generation: 4, record: 4, best score: 1, average score: 0.09
+[2026-11-09 22:36:10] generation: 5, record: 4, best score: 2, average score: 0.10
+[2026-11-09 22:36:10] generation: 6, record: 4, best score: 3, average score: 0.11
+[2026-11-09 22:36:11] generation: 7, record: 4, best score: 2, average score: 0.11
+[2026-11-09 22:36:11] generation: 8, record: 4, best score: 2, average score: 0.14
+[2026-11-09 22:36:12] generation: 9, record: 4, best score: 2, average score: 0.16
+[2026-11-09 22:36:12] generation: 10, record: 4, best score: 2, average score: 0.15
+[2026-11-09 22:36:13] generation: 11, record: 4, best score: 2, average score: 0.13
+[2026-11-09 22:36:13] generation: 12, record: 4, best score: 2, average score: 0.18
+[2026-11-09 22:36:14] generation: 13, record: 4, best score: 2, average score: 0.18
+[2026-11-09 22:36:14] generation: 14, record: 4, best score: 3, average score: 0.20
+[2026-11-09 22:36:15] generation: 15, record: 4, best score: 3, average score: 0.20
+[2026-11-09 22:36:15] generation: 16, record: 4, best score: 3, average score: 0.27
+[2026-11-09 22:36:16] generation: 17, record: 4, best score: 3, average score: 0.26
+[2026-11-09 22:36:17] generation: 18, record: 4, best score: 2, average score: 0.23
+[2026-11-09 22:36:17] generation: 19, record: 4, best score: 4, average score: 0.25
+[2026-11-09 22:36:17] generation: 20, record: 4, best score: 3, average score: 0.28
+[2026-11-09 22:36:18] generation: 21, record: 4, best score: 3, average score: 0.26
+[2026-11-09 22:36:18] generation: 22, record: 4, best score: 2, average score: 0.21
+[2026-11-09 22:36:19] generation: 23, record: 4, best score: 3, average score: 0.26
+[2026-11-09 22:36:19] generation: 24, record: 4, best score: 2, average score: 0.30
+[2026-11-09 22:36:20] generation: 25, record: 4, best score: 2, average score: 0.25
+[2026-11-09 22:36:20] generation: 26, record: 4, best score: 3, average score: 0.28
+[2026-11-09 22:36:21] generation: 27, record: 4, best score: 2, average score: 0.23
+[2026-11-09 22:36:21] generation: 28, record: 4, best score: 3, average score: 0.28
+[2026-11-09 22:36:22] generation: 29, record: 4, best score: 2, average score: 0.28
+[2026-11-09 22:36:22] generation: 30, record: 4, best score: 3, average score: 0.26
+[2026-11-09 22:36:23] generation: 31, record: 4, best score: 3, average score: 0.25
+[2026-11-09 22:36:23] generation: 32, record: 4, best score: 2, average score: 0.24
+[2026-11-09 22:36:24] generation: 33, record: 4, best score: 3, average score: 0.24
+[2026-11-09 22:36:24] generation: 34, record: 4, best score: 3, average score: 0.25
+[2026-11-09 22:36:24] 训练结束，返回主菜单。
+[2026-11-09 22:59:08] 加载第 310 代预训练基因（约 79 分）演示
+[2026-11-09 22:59:14] 加载第 310 代预训练基因（约 79 分）演示
+[2026-11-09 22:59:17] ===== 新一轮训练开始（从零随机初始化）=====
+[2026-11-09 22:59:17] generation: 1, record: 1, best: 1, avg: 0.06
+[2026-11-09 23:18:55] 加载第 310 代预训练基因（约 79 分）演示
+[2026-11-09 23:25:19] ===== 新一轮训练开始（从零随机初始化）=====
+[2026-11-09 23:25:19] generation: 1, record: 2, best: 2, avg: 0.10
+[2026-11-09 23:25:19] generation: 2, record: 2, best: 2, avg: 0.09
+[2026-11-09 23:25:20] generation: 3, record: 2, best: 1, avg: 0.07
+[2026-11-09 23:25:20] generation: 4, record: 2, best: 2, avg: 0.09
+[2026-11-09 23:25:21] generation: 5, record: 2, best: 2, avg: 0.10
+[2026-11-09 23:25:21] generation: 6, record: 2, best: 1, avg: 0.07
+[2026-11-09 23:25:22] generation: 7, record: 2, best: 2, avg: 0.09
+[2026-11-09 23:25:22] generation: 8, record: 2, best: 2, avg: 0.15
+[2026-11-09 23:25:23] generation: 9, record: 3, best: 3, avg: 0.12
+[2026-11-09 23:25:23] generation: 10, record: 3, best: 2, avg: 0.17
+[2026-11-09 23:25:24] generation: 11, record: 3, best: 3, avg: 0.20
+[2026-11-09 23:25:24] generation: 12, record: 3, best: 2, avg: 0.21
+[2026-11-09 23:25:25] generation: 13, record: 3, best: 2, avg: 0.25
+[2026-11-09 23:25:25] 训练结束，返回主菜单。
+[2026-11-09 23:25:41] 加载第 310 代预训练基因（约 79 分）演示
+[2026-11-09 23:26:47] 加载第 310 代预训练基因（约 79 分）演示
+[2026-11-09 23:26:52] ===== 新一轮训练开始（从零随机初始化）=====
+[2026-11-09 23:26:52] generation: 1, record: 1, best: 1, avg: 0.08
+[2026-11-09 23:26:53] generation: 2, record: 2, best: 2, avg: 0.09
+[2026-11-09 23:26:53] generation: 3, record: 2, best: 2, avg: 0.11
+[2026-11-09 23:26:54] generation: 4, record: 2, best: 2, avg: 0.12
+[2026-11-09 23:26:54] generation: 5, record: 2, best: 2, avg: 0.16
+[2026-11-09 23:26:54] generation: 6, record: 2, best: 2, avg: 0.17
+[2026-11-09 23:26:55] generation: 7, record: 2, best: 2, avg: 0.16
+[2026-11-09 23:26:56] generation: 8, record: 2, best: 2, avg: 0.17
+[2026-11-09 23:26:56] generation: 9, record: 2, best: 2, avg: 0.17
+[2026-11-09 23:26:57] generation: 10, record: 3, best: 3, avg: 0.16
+[2026-11-09 23:26:57] generation: 11, record: 3, best: 3, avg: 0.22
+[2026-11-09 23:26:58] generation: 12, record: 3, best: 3, avg: 0.25
+[2026-11-09 23:26:58] 训练结束，返回主菜单。
+[2026-11-09 23:31:23] 加载第 310 代预训练基因（约 79 分）演示
+[2026-11-09 23:32:13] 未发现存档，从预训练第 310 代基因热启动（起点约 79 分）
+[2026-11-09 23:32:18] generation: 1, record: 80, best: 80, avg: 29.05
+[2026-11-09 23:33:08] generation: 2, record: 80, best: 75, avg: 27.99
+[2026-11-09 23:33:30] generation: 3, record: 80, best: 77, avg: 26.81
+[2026-11-09 23:33:51] generation: 4, record: 88, best: 88, avg: 28.10
+[2026-11-09 23:34:49] generation: 5, record: 88, best: 71, avg: 25.71
+[2026-11-09 23:35:11] generation: 6, record: 88, best: 77, avg: 28.44
+[2026-11-09 23:35:32] generation: 7, record: 88, best: 78, avg: 26.76
+[2026-11-09 23:35:53] generation: 8, record: 88, best: 82, avg: 27.94
+[2026-11-09 23:36:14] generation: 9, record: 88, best: 81, avg: 28.44
+[2026-11-09 23:36:37] generation: 10, record: 88, best: 75, avg: 29.85
+[2026-11-09 23:36:59] generation: 11, record: 88, best: 81, avg: 28.75
+[2026-11-10 12:11:19] 未发现兼容存档，从随机祖先开始训练（网络 32-20-12-4）
+[2026-11-10 12:11:19] generation: 1, record: 1, best: 1, avg: 0.09
+[2026-11-10 12:11:20] generation: 2, record: 2, best: 2, avg: 0.06
+[2026-11-10 12:11:20] generation: 3, record: 2, best: 2, avg: 0.11
+[2026-11-10 12:11:20] generation: 4, record: 2, best: 2, avg: 0.12
+[2026-11-10 12:11:20] generation: 5, record: 2, best: 2, avg: 0.12
+[2026-11-10 12:11:20] generation: 6, record: 3, best: 3, avg: 0.18
+[2026-11-10 12:11:21] generation: 7, record: 3, best: 3, avg: 0.19
+[2026-11-10 12:11:21] generation: 8, record: 3, best: 3, avg: 0.20
+[2026-11-10 12:11:21] generation: 9, record: 3, best: 2, avg: 0.23
+[2026-11-10 12:11:21] generation: 10, record: 3, best: 2, avg: 0.24
+[2026-11-10 12:11:21] generation: 11, record: 3, best: 3, avg: 0.28
+[2026-11-10 12:11:21] generation: 12, record: 3, best: 2, avg: 0.24
+[2026-11-10 12:11:21] generation: 13, record: 3, best: 2, avg: 0.23
+[2026-11-10 12:11:22] generation: 14, record: 3, best: 3, avg: 0.28
+[2026-11-10 12:11:22] generation: 15, record: 3, best: 3, avg: 0.28
+[2026-11-10 12:11:22] generation: 16, record: 3, best: 3, avg: 0.23
+[2026-11-10 12:11:22] generation: 17, record: 3, best: 2, avg: 0.25
+[2026-11-10 12:11:22] generation: 18, record: 3, best: 3, avg: 0.24
+[2026-11-10 12:11:22] generation: 19, record: 3, best: 3, avg: 0.26
+[2026-11-10 12:11:23] generation: 20, record: 3, best: 3, avg: 0.30
+[2026-11-10 12:11:23] generation: 21, record: 3, best: 3, avg: 0.31
+[2026-11-10 12:11:23] generation: 22, record: 4, best: 4, avg: 0.29
+[2026-11-10 12:11:23] generation: 23, record: 4, best: 3, avg: 0.27
+[2026-11-10 12:11:23] generation: 24, record: 4, best: 2, avg: 0.30
+[2026-11-10 12:11:24] generation: 25, record: 4, best: 4, avg: 0.31
+[2026-11-10 12:11:24] generation: 26, record: 4, best: 3, avg: 0.28
+[2026-11-10 12:11:24] generation: 27, record: 4, best: 2, avg: 0.26
+[2026-11-10 12:11:24] generation: 28, record: 4, best: 3, avg: 0.24
+[2026-11-10 12:11:24] generation: 29, record: 4, best: 2, avg: 0.26
+[2026-11-10 12:11:24] generation: 30, record: 4, best: 3, avg: 0.26
+[2026-11-10 12:11:24] generation: 31, record: 4, best: 3, avg: 0.27
+[2026-11-10 12:11:25] generation: 32, record: 4, best: 2, avg: 0.28
+[2026-11-10 12:11:25] generation: 33, record: 4, best: 3, avg: 0.26
+[2026-11-10 12:11:25] generation: 34, record: 4, best: 2, avg: 0.28
+[2026-11-10 12:11:25] generation: 35, record: 4, best: 2, avg: 0.28
+[2026-11-10 12:11:25] generation: 36, record: 4, best: 3, avg: 0.27
+[2026-11-10 12:11:25] generation: 37, record: 4, best: 2, avg: 0.20
+[2026-11-10 12:11:26] generation: 38, record: 4, best: 3, avg: 0.25
+[2026-11-10 12:11:26] generation: 39, record: 4, best: 3, avg: 0.28
+[2026-11-10 12:11:26] generation: 40, record: 4, best: 3, avg: 0.24
+[2026-11-10 12:11:26] generation: 41, record: 4, best: 3, avg: 0.25
+[2026-11-10 12:11:26] generation: 42, record: 4, best: 3, avg: 0.25
+[2026-11-10 12:11:26] generation: 43, record: 4, best: 2, avg: 0.27
+[2026-11-10 12:11:26] generation: 44, record: 4, best: 2, avg: 0.30
+[2026-11-10 12:11:27] generation: 45, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:27] generation: 46, record: 4, best: 2, avg: 0.28
+[2026-11-10 12:11:27] generation: 47, record: 4, best: 2, avg: 0.27
+[2026-11-10 12:11:27] generation: 48, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:27] generation: 49, record: 4, best: 3, avg: 0.26
+[2026-11-10 12:11:27] generation: 50, record: 4, best: 3, avg: 0.27
+[2026-11-10 12:11:28] generation: 51, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:11:28] generation: 52, record: 4, best: 3, avg: 0.27
+[2026-11-10 12:11:28] generation: 53, record: 4, best: 3, avg: 0.25
+[2026-11-10 12:11:28] generation: 54, record: 4, best: 2, avg: 0.29
+[2026-11-10 12:11:28] generation: 55, record: 4, best: 3, avg: 0.27
+[2026-11-10 12:11:28] generation: 56, record: 4, best: 3, avg: 0.25
+[2026-11-10 12:11:28] generation: 57, record: 4, best: 2, avg: 0.21
+[2026-11-10 12:11:29] generation: 58, record: 4, best: 3, avg: 0.22
+[2026-11-10 12:11:29] generation: 59, record: 4, best: 3, avg: 0.26
+[2026-11-10 12:11:29] generation: 60, record: 4, best: 2, avg: 0.20
+[2026-11-10 12:11:29] generation: 61, record: 4, best: 3, avg: 0.27
+[2026-11-10 12:11:29] generation: 62, record: 4, best: 2, avg: 0.21
+[2026-11-10 12:11:29] generation: 63, record: 4, best: 3, avg: 0.21
+[2026-11-10 12:11:30] generation: 64, record: 4, best: 3, avg: 0.22
+[2026-11-10 12:11:30] generation: 65, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:11:30] generation: 66, record: 4, best: 4, avg: 0.24
+[2026-11-10 12:11:30] generation: 67, record: 4, best: 3, avg: 0.19
+[2026-11-10 12:11:30] generation: 68, record: 4, best: 2, avg: 0.20
+[2026-11-10 12:11:30] generation: 69, record: 4, best: 3, avg: 0.25
+[2026-11-10 12:11:30] generation: 70, record: 4, best: 2, avg: 0.22
+[2026-11-10 12:11:31] generation: 71, record: 4, best: 3, avg: 0.25
+[2026-11-10 12:11:31] generation: 72, record: 4, best: 2, avg: 0.23
+[2026-11-10 12:11:31] generation: 73, record: 4, best: 3, avg: 0.22
+[2026-11-10 12:11:31] generation: 74, record: 4, best: 3, avg: 0.24
+[2026-11-10 12:11:31] generation: 75, record: 4, best: 2, avg: 0.24
+[2026-11-10 12:11:31] generation: 76, record: 4, best: 3, avg: 0.24
+[2026-11-10 12:11:32] generation: 77, record: 4, best: 3, avg: 0.24
+[2026-11-10 12:11:32] generation: 78, record: 4, best: 2, avg: 0.25
+[2026-11-10 12:11:32] generation: 79, record: 4, best: 3, avg: 0.26
+[2026-11-10 12:11:32] generation: 80, record: 4, best: 3, avg: 0.21
+[2026-11-10 12:11:32] generation: 81, record: 4, best: 2, avg: 0.24
+[2026-11-10 12:11:32] generation: 82, record: 4, best: 3, avg: 0.28
+[2026-11-10 12:11:32] generation: 83, record: 4, best: 3, avg: 0.25
+[2026-11-10 12:11:33] generation: 84, record: 4, best: 4, avg: 0.24
+[2026-11-10 12:11:33] generation: 85, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:33] generation: 86, record: 4, best: 3, avg: 0.23
+[2026-11-10 12:11:33] generation: 87, record: 4, best: 3, avg: 0.26
+[2026-11-10 12:11:33] generation: 88, record: 4, best: 4, avg: 0.32
+[2026-11-10 12:11:33] generation: 89, record: 4, best: 3, avg: 0.25
+[2026-11-10 12:11:34] generation: 90, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:34] generation: 91, record: 4, best: 2, avg: 0.27
+[2026-11-10 12:11:34] generation: 92, record: 4, best: 3, avg: 0.28
+[2026-11-10 12:11:34] generation: 93, record: 4, best: 3, avg: 0.24
+[2026-11-10 12:11:34] generation: 94, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:11:34] generation: 95, record: 4, best: 3, avg: 0.26
+[2026-11-10 12:11:34] generation: 96, record: 4, best: 2, avg: 0.24
+[2026-11-10 12:11:35] generation: 97, record: 4, best: 3, avg: 0.23
+[2026-11-10 12:11:35] generation: 98, record: 4, best: 3, avg: 0.27
+[2026-11-10 12:11:35] generation: 99, record: 4, best: 2, avg: 0.26
+[2026-11-10 12:11:35] generation: 100, record: 4, best: 4, avg: 0.23
+[2026-11-10 12:11:35] generation: 101, record: 4, best: 2, avg: 0.28
+[2026-11-10 12:11:35] generation: 102, record: 4, best: 2, avg: 0.28
+[2026-11-10 12:11:36] generation: 103, record: 4, best: 2, avg: 0.31
+[2026-11-10 12:11:36] generation: 104, record: 4, best: 3, avg: 0.26
+[2026-11-10 12:11:36] generation: 105, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:11:36] generation: 106, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:36] generation: 107, record: 4, best: 3, avg: 0.28
+[2026-11-10 12:11:36] generation: 108, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:11:36] generation: 109, record: 4, best: 3, avg: 0.28
+[2026-11-10 12:11:37] generation: 110, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:11:37] generation: 111, record: 4, best: 3, avg: 0.28
+[2026-11-10 12:11:37] generation: 112, record: 4, best: 3, avg: 0.25
+[2026-11-10 12:11:37] generation: 113, record: 4, best: 3, avg: 0.28
+[2026-11-10 12:11:37] generation: 114, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:37] generation: 115, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:38] generation: 116, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:38] generation: 117, record: 4, best: 2, avg: 0.30
+[2026-11-10 12:11:38] generation: 118, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:38] generation: 119, record: 4, best: 2, avg: 0.34
+[2026-11-10 12:11:38] generation: 120, record: 4, best: 3, avg: 0.38
+[2026-11-10 12:11:38] generation: 121, record: 4, best: 2, avg: 0.34
+[2026-11-10 12:11:39] generation: 122, record: 4, best: 2, avg: 0.29
+[2026-11-10 12:11:39] generation: 123, record: 4, best: 3, avg: 0.28
+[2026-11-10 12:11:39] generation: 124, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:11:39] generation: 125, record: 4, best: 2, avg: 0.29
+[2026-11-10 12:11:39] generation: 126, record: 4, best: 3, avg: 0.28
+[2026-11-10 12:11:39] generation: 127, record: 4, best: 3, avg: 0.34
+[2026-11-10 12:11:39] generation: 128, record: 4, best: 2, avg: 0.30
+[2026-11-10 12:11:40] generation: 129, record: 4, best: 4, avg: 0.30
+[2026-11-10 12:11:40] generation: 130, record: 4, best: 2, avg: 0.34
+[2026-11-10 12:11:40] generation: 131, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:40] generation: 132, record: 4, best: 3, avg: 0.35
+[2026-11-10 12:11:40] generation: 133, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:11:40] generation: 134, record: 4, best: 3, avg: 0.26
+[2026-11-10 12:11:41] generation: 135, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:11:41] generation: 136, record: 4, best: 2, avg: 0.31
+[2026-11-10 12:11:41] generation: 137, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:41] generation: 138, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:41] generation: 139, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:41] generation: 140, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:42] generation: 141, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:42] generation: 142, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:11:42] generation: 143, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:42] generation: 144, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:42] generation: 145, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:11:42] generation: 146, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:43] generation: 147, record: 4, best: 3, avg: 0.35
+[2026-11-10 12:11:43] generation: 148, record: 4, best: 2, avg: 0.29
+[2026-11-10 12:11:43] generation: 149, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:11:43] generation: 150, record: 4, best: 4, avg: 0.29
+[2026-11-10 12:11:43] generation: 151, record: 4, best: 3, avg: 0.35
+[2026-11-10 12:11:44] generation: 152, record: 4, best: 3, avg: 0.28
+[2026-11-10 12:11:44] generation: 153, record: 4, best: 4, avg: 0.32
+[2026-11-10 12:11:44] generation: 154, record: 4, best: 2, avg: 0.30
+[2026-11-10 12:11:44] generation: 155, record: 4, best: 3, avg: 0.27
+[2026-11-10 12:11:44] generation: 156, record: 4, best: 2, avg: 0.29
+[2026-11-10 12:11:45] generation: 157, record: 4, best: 4, avg: 0.31
+[2026-11-10 12:11:45] generation: 158, record: 4, best: 3, avg: 0.36
+[2026-11-10 12:11:45] generation: 159, record: 4, best: 2, avg: 0.32
+[2026-11-10 12:11:45] generation: 160, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:45] generation: 161, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:45] generation: 162, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:11:46] generation: 163, record: 4, best: 4, avg: 0.34
+[2026-11-10 12:11:46] generation: 164, record: 4, best: 3, avg: 0.35
+[2026-11-10 12:11:46] generation: 165, record: 4, best: 2, avg: 0.28
+[2026-11-10 12:11:46] generation: 166, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:11:46] generation: 167, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:11:46] generation: 168, record: 4, best: 3, avg: 0.37
+[2026-11-10 12:11:47] generation: 169, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:11:47] generation: 170, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:11:47] generation: 171, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:47] generation: 172, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:11:47] generation: 173, record: 4, best: 4, avg: 0.32
+[2026-11-10 12:11:47] generation: 174, record: 4, best: 3, avg: 0.35
+[2026-11-10 12:11:48] generation: 175, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:11:48] generation: 176, record: 4, best: 2, avg: 0.25
+[2026-11-10 12:11:48] generation: 177, record: 4, best: 2, avg: 0.31
+[2026-11-10 12:11:48] generation: 178, record: 4, best: 2, avg: 0.35
+[2026-11-10 12:11:48] generation: 179, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:48] generation: 180, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:11:48] generation: 181, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:49] generation: 182, record: 4, best: 3, avg: 0.36
+[2026-11-10 12:11:49] generation: 183, record: 4, best: 2, avg: 0.31
+[2026-11-10 12:11:49] generation: 184, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:11:49] generation: 185, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:49] generation: 186, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:11:49] generation: 187, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:50] generation: 188, record: 4, best: 2, avg: 0.28
+[2026-11-10 12:11:50] generation: 189, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:11:50] generation: 190, record: 4, best: 2, avg: 0.27
+[2026-11-10 12:11:50] generation: 191, record: 4, best: 2, avg: 0.30
+[2026-11-10 12:11:50] generation: 192, record: 4, best: 2, avg: 0.30
+[2026-11-10 12:11:50] generation: 193, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:51] generation: 194, record: 4, best: 2, avg: 0.29
+[2026-11-10 12:11:51] generation: 195, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:51] generation: 196, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:11:51] generation: 197, record: 4, best: 2, avg: 0.27
+[2026-11-10 12:11:51] generation: 198, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:11:51] generation: 199, record: 4, best: 2, avg: 0.28
+[2026-11-10 12:11:52] generation: 200, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:11:52] generation: 201, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:11:52] generation: 202, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:11:52] generation: 203, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:52] generation: 204, record: 4, best: 3, avg: 0.34
+[2026-11-10 12:11:52] generation: 205, record: 4, best: 3, avg: 0.28
+[2026-11-10 12:11:53] generation: 206, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:53] generation: 207, record: 4, best: 3, avg: 0.34
+[2026-11-10 12:11:53] generation: 208, record: 4, best: 3, avg: 0.27
+[2026-11-10 12:11:53] generation: 209, record: 4, best: 3, avg: 0.34
+[2026-11-10 12:11:53] generation: 210, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:11:53] generation: 211, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:54] generation: 212, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:54] generation: 213, record: 4, best: 3, avg: 0.34
+[2026-11-10 12:11:54] generation: 214, record: 4, best: 2, avg: 0.30
+[2026-11-10 12:11:54] generation: 215, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:54] generation: 216, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:54] generation: 217, record: 4, best: 3, avg: 0.36
+[2026-11-10 12:11:55] generation: 218, record: 4, best: 3, avg: 0.27
+[2026-11-10 12:11:55] generation: 219, record: 4, best: 4, avg: 0.28
+[2026-11-10 12:11:55] generation: 220, record: 4, best: 2, avg: 0.29
+[2026-11-10 12:11:55] generation: 221, record: 4, best: 4, avg: 0.30
+[2026-11-10 12:11:55] generation: 222, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:11:55] generation: 223, record: 4, best: 3, avg: 0.35
+[2026-11-10 12:11:56] generation: 224, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:11:56] generation: 225, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:56] generation: 226, record: 4, best: 3, avg: 0.38
+[2026-11-10 12:11:56] generation: 227, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:11:56] generation: 228, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:11:56] generation: 229, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:57] generation: 230, record: 4, best: 3, avg: 0.34
+[2026-11-10 12:11:57] generation: 231, record: 4, best: 2, avg: 0.36
+[2026-11-10 12:11:57] generation: 232, record: 4, best: 3, avg: 0.27
+[2026-11-10 12:11:57] generation: 233, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:11:57] generation: 234, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:11:57] generation: 235, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:57] generation: 236, record: 4, best: 2, avg: 0.29
+[2026-11-10 12:11:58] generation: 237, record: 4, best: 4, avg: 0.29
+[2026-11-10 12:11:58] generation: 238, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:58] generation: 239, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:58] generation: 240, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:58] generation: 241, record: 4, best: 3, avg: 0.36
+[2026-11-10 12:11:59] generation: 242, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:59] generation: 243, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:11:59] generation: 244, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:11:59] generation: 245, record: 4, best: 4, avg: 0.34
+[2026-11-10 12:11:59] generation: 246, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:11:59] generation: 247, record: 4, best: 3, avg: 0.36
+[2026-11-10 12:12:00] generation: 248, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:12:00] generation: 249, record: 4, best: 4, avg: 0.29
+[2026-11-10 12:12:00] generation: 250, record: 4, best: 3, avg: 0.28
+[2026-11-10 12:12:00] generation: 251, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:12:00] generation: 252, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:12:00] generation: 253, record: 4, best: 3, avg: 0.28
+[2026-11-10 12:12:01] generation: 254, record: 4, best: 3, avg: 0.37
+[2026-11-10 12:12:01] generation: 255, record: 4, best: 2, avg: 0.31
+[2026-11-10 12:12:01] generation: 256, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:12:01] generation: 257, record: 4, best: 2, avg: 0.33
+[2026-11-10 12:12:01] generation: 258, record: 4, best: 2, avg: 0.36
+[2026-11-10 12:12:01] generation: 259, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:12:01] generation: 260, record: 4, best: 3, avg: 0.26
+[2026-11-10 12:12:02] generation: 261, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:12:02] generation: 262, record: 4, best: 3, avg: 0.26
+[2026-11-10 12:12:02] generation: 263, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:12:02] generation: 264, record: 4, best: 3, avg: 0.28
+[2026-11-10 12:12:02] generation: 265, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:12:02] generation: 266, record: 4, best: 2, avg: 0.34
+[2026-11-10 12:12:03] generation: 267, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:12:03] generation: 268, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:12:03] generation: 269, record: 4, best: 2, avg: 0.34
+[2026-11-10 12:12:03] generation: 270, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:12:03] generation: 271, record: 4, best: 2, avg: 0.33
+[2026-11-10 12:12:03] generation: 272, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:12:03] generation: 273, record: 4, best: 4, avg: 0.35
+[2026-11-10 12:12:04] generation: 274, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:12:04] generation: 275, record: 4, best: 3, avg: 0.34
+[2026-11-10 12:12:04] generation: 276, record: 4, best: 2, avg: 0.33
+[2026-11-10 12:12:04] generation: 277, record: 4, best: 2, avg: 0.28
+[2026-11-10 12:12:04] generation: 278, record: 4, best: 4, avg: 0.30
+[2026-11-10 12:12:04] generation: 279, record: 4, best: 4, avg: 0.32
+[2026-11-10 12:12:05] generation: 280, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:12:05] generation: 281, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:12:05] generation: 282, record: 4, best: 3, avg: 0.28
+[2026-11-10 12:12:05] generation: 283, record: 4, best: 4, avg: 0.33
+[2026-11-10 12:12:05] generation: 284, record: 4, best: 3, avg: 0.28
+[2026-11-10 12:12:05] generation: 285, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:12:05] generation: 286, record: 4, best: 2, avg: 0.29
+[2026-11-10 12:12:06] generation: 287, record: 4, best: 4, avg: 0.28
+[2026-11-10 12:12:06] generation: 288, record: 4, best: 2, avg: 0.27
+[2026-11-10 12:12:06] generation: 289, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:12:06] generation: 290, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:12:06] generation: 291, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:12:06] generation: 292, record: 4, best: 3, avg: 0.35
+[2026-11-10 12:12:06] generation: 293, record: 4, best: 3, avg: 0.34
+[2026-11-10 12:12:07] generation: 294, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:12:07] generation: 295, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:12:07] generation: 296, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:12:07] generation: 297, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:12:07] generation: 298, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:12:07] generation: 299, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:12:08] generation: 300, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:12:08] generation: 301, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:12:08] generation: 302, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:12:08] generation: 303, record: 4, best: 3, avg: 0.30
+[2026-11-10 12:12:08] generation: 304, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:12:08] generation: 305, record: 4, best: 2, avg: 0.34
+[2026-11-10 12:12:09] generation: 306, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:12:09] generation: 307, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:12:09] generation: 308, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:12:09] generation: 309, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:12:09] generation: 310, record: 4, best: 3, avg: 0.35
+[2026-11-10 12:12:09] generation: 311, record: 4, best: 2, avg: 0.30
+[2026-11-10 12:12:09] generation: 312, record: 4, best: 3, avg: 0.34
+[2026-11-10 12:12:10] generation: 313, record: 4, best: 3, avg: 0.34
+[2026-11-10 12:12:10] generation: 314, record: 4, best: 2, avg: 0.30
+[2026-11-10 12:12:10] generation: 315, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:12:10] generation: 316, record: 4, best: 3, avg: 0.37
+[2026-11-10 12:12:10] generation: 317, record: 4, best: 2, avg: 0.28
+[2026-11-10 12:12:10] generation: 318, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:12:10] generation: 319, record: 4, best: 3, avg: 0.34
+[2026-11-10 12:12:11] generation: 320, record: 4, best: 2, avg: 0.31
+[2026-11-10 12:12:11] generation: 321, record: 4, best: 3, avg: 0.34
+[2026-11-10 12:12:11] generation: 322, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:12:11] generation: 323, record: 4, best: 3, avg: 0.27
+[2026-11-10 12:12:11] generation: 324, record: 4, best: 2, avg: 0.33
+[2026-11-10 12:12:11] generation: 325, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:12:11] generation: 326, record: 4, best: 2, avg: 0.31
+[2026-11-10 12:12:12] generation: 327, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:12:12] generation: 328, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:12:12] generation: 329, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:12:12] generation: 330, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:12:12] generation: 331, record: 4, best: 4, avg: 0.33
+[2026-11-10 12:12:12] generation: 332, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:12:12] generation: 333, record: 4, best: 2, avg: 0.29
+[2026-11-10 12:12:13] generation: 334, record: 4, best: 3, avg: 0.34
+[2026-11-10 12:12:13] generation: 335, record: 4, best: 3, avg: 0.27
+[2026-11-10 12:12:13] generation: 336, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:12:13] generation: 337, record: 4, best: 3, avg: 0.34
+[2026-11-10 12:12:13] generation: 338, record: 4, best: 3, avg: 0.36
+[2026-11-10 12:12:13] generation: 339, record: 4, best: 2, avg: 0.33
+[2026-11-10 12:12:13] generation: 340, record: 4, best: 2, avg: 0.35
+[2026-11-10 12:12:14] generation: 341, record: 4, best: 3, avg: 0.32
+[2026-11-10 12:12:14] generation: 342, record: 4, best: 2, avg: 0.36
+[2026-11-10 12:12:14] generation: 343, record: 4, best: 3, avg: 0.33
+[2026-11-10 12:12:14] generation: 344, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:12:14] generation: 345, record: 4, best: 3, avg: 0.31
+[2026-11-10 12:12:14] generation: 346, record: 4, best: 3, avg: 0.35
+[2026-11-10 12:12:14] generation: 347, record: 4, best: 3, avg: 0.35
+[2026-11-10 12:12:15] generation: 348, record: 4, best: 3, avg: 0.38
+[2026-11-10 12:12:15] generation: 349, record: 4, best: 4, avg: 0.38
+[2026-11-10 12:12:15] generation: 350, record: 4, best: 3, avg: 0.29
+[2026-11-10 12:12:15] generation: 351, record: 4, best: 3, avg: 0.37
+[2026-11-10 12:12:15] generation: 352, record: 4, best: 2, avg: 0.34
+[2026-11-10 12:12:15] generation: 353, record: 4, best: 4, avg: 0.35
+[2026-11-10 12:12:15] generation: 354, record: 4, best: 3, avg: 0.35
+[2026-11-10 12:12:16] generation: 355, record: 4, best: 3, avg: 0.35
+[2026-11-10 12:12:16] generation: 356, record: 5, best: 5, avg: 0.33
+[2026-11-10 12:12:16] generation: 357, record: 5, best: 3, avg: 0.33
+[2026-11-10 12:12:16] generation: 358, record: 5, best: 3, avg: 0.41
+[2026-11-10 12:12:16] generation: 359, record: 5, best: 3, avg: 0.36
+[2026-11-10 12:12:17] generation: 360, record: 5, best: 3, avg: 0.34
+[2026-11-10 12:12:17] generation: 361, record: 5, best: 3, avg: 0.35
+[2026-11-10 12:12:17] generation: 362, record: 5, best: 3, avg: 0.36
+[2026-11-10 12:12:17] generation: 363, record: 5, best: 3, avg: 0.40
+[2026-11-10 12:12:17] generation: 364, record: 5, best: 4, avg: 0.39
+[2026-11-10 12:12:17] generation: 365, record: 5, best: 3, avg: 0.49
+[2026-11-10 12:12:18] generation: 366, record: 5, best: 4, avg: 0.40
+[2026-11-10 12:12:18] generation: 367, record: 5, best: 3, avg: 0.39
+[2026-11-10 12:12:18] generation: 368, record: 5, best: 3, avg: 0.45
+[2026-11-10 12:12:18] generation: 369, record: 5, best: 4, avg: 0.47
+[2026-11-10 12:12:18] generation: 370, record: 5, best: 4, avg: 0.47
+[2026-11-10 12:12:18] generation: 371, record: 5, best: 3, avg: 0.48
+[2026-11-10 12:12:18] generation: 372, record: 5, best: 4, avg: 0.52
+[2026-11-10 12:12:19] generation: 373, record: 5, best: 4, avg: 0.47
+[2026-11-10 12:12:19] generation: 374, record: 5, best: 4, avg: 0.51
+[2026-11-10 12:12:19] generation: 375, record: 5, best: 4, avg: 0.51
+[2026-11-10 12:12:19] generation: 376, record: 5, best: 4, avg: 0.53
+[2026-11-10 12:12:19] generation: 377, record: 5, best: 3, avg: 0.58
+[2026-11-10 12:12:19] generation: 378, record: 5, best: 4, avg: 0.49
+[2026-11-10 12:12:20] generation: 379, record: 5, best: 4, avg: 0.50
+[2026-11-10 12:12:20] generation: 380, record: 5, best: 4, avg: 0.55
+[2026-11-10 12:12:20] generation: 381, record: 5, best: 3, avg: 0.58
+[2026-11-10 12:12:20] generation: 382, record: 5, best: 3, avg: 0.57
+[2026-11-10 12:12:20] generation: 383, record: 5, best: 4, avg: 0.51
+[2026-11-10 12:12:20] generation: 384, record: 5, best: 3, avg: 0.59
+[2026-11-10 12:12:21] generation: 385, record: 5, best: 4, avg: 0.59
+[2026-11-10 12:12:21] generation: 386, record: 5, best: 3, avg: 0.54
+[2026-11-10 12:12:21] generation: 387, record: 5, best: 4, avg: 0.62
+[2026-11-10 12:12:21] generation: 388, record: 5, best: 3, avg: 0.53
+[2026-11-10 12:12:21] generation: 389, record: 5, best: 3, avg: 0.50
+[2026-11-10 12:12:21] generation: 390, record: 5, best: 3, avg: 0.49
+[2026-11-10 12:12:22] generation: 391, record: 5, best: 3, avg: 0.55
+[2026-11-10 12:12:22] generation: 392, record: 5, best: 3, avg: 0.52
+[2026-11-10 12:12:22] generation: 393, record: 5, best: 4, avg: 0.52
+[2026-11-10 12:12:22] generation: 394, record: 5, best: 4, avg: 0.63
+[2026-11-10 12:12:22] generation: 395, record: 5, best: 4, avg: 0.64
+[2026-11-10 12:12:22] generation: 396, record: 5, best: 4, avg: 0.62
+[2026-11-10 12:12:23] generation: 397, record: 5, best: 3, avg: 0.58
+[2026-11-10 12:12:23] generation: 398, record: 5, best: 4, avg: 0.66
+[2026-11-10 12:12:23] generation: 399, record: 5, best: 4, avg: 0.58
+[2026-11-10 12:12:23] generation: 400, record: 5, best: 4, avg: 0.60
+[2026-11-10 12:12:23] generation: 401, record: 5, best: 3, avg: 0.56
+[2026-11-10 12:12:24] generation: 402, record: 5, best: 4, avg: 0.62
+[2026-11-10 12:12:24] generation: 403, record: 5, best: 3, avg: 0.59
+[2026-11-10 12:12:24] generation: 404, record: 5, best: 4, avg: 0.64
+[2026-11-10 12:12:24] generation: 405, record: 5, best: 4, avg: 0.71
+[2026-11-10 12:12:24] generation: 406, record: 5, best: 5, avg: 0.71
+[2026-11-10 12:12:25] generation: 407, record: 5, best: 4, avg: 0.63
+[2026-11-10 12:12:25] generation: 408, record: 5, best: 5, avg: 0.61
+[2026-11-10 12:12:25] generation: 409, record: 5, best: 4, avg: 0.66
+[2026-11-10 12:12:25] generation: 410, record: 5, best: 3, avg: 0.61
+[2026-11-10 12:12:25] generation: 411, record: 5, best: 3, avg: 0.72
+[2026-11-10 12:12:25] generation: 412, record: 5, best: 3, avg: 0.65
+[2026-11-10 12:12:26] generation: 413, record: 5, best: 3, avg: 0.71
+[2026-11-10 12:12:26] generation: 414, record: 5, best: 4, avg: 0.58
+[2026-11-10 12:12:26] generation: 415, record: 5, best: 4, avg: 0.66
+[2026-11-10 12:12:26] generation: 416, record: 5, best: 3, avg: 0.69
+[2026-11-10 12:12:26] generation: 417, record: 5, best: 4, avg: 0.64
+[2026-11-10 12:12:26] generation: 418, record: 5, best: 3, avg: 0.67
+[2026-11-10 12:12:27] generation: 419, record: 5, best: 4, avg: 0.67
+[2026-11-10 12:12:27] generation: 420, record: 5, best: 4, avg: 0.66
+[2026-11-10 12:12:27] generation: 421, record: 5, best: 4, avg: 0.64
+[2026-11-10 12:12:27] generation: 422, record: 5, best: 5, avg: 0.66
+[2026-11-10 12:12:27] generation: 423, record: 5, best: 3, avg: 0.66
+[2026-11-10 12:12:28] generation: 424, record: 5, best: 4, avg: 0.66
+[2026-11-10 12:12:28] generation: 425, record: 5, best: 4, avg: 0.62
+[2026-11-10 12:12:28] generation: 426, record: 6, best: 6, avg: 0.70
+[2026-11-10 12:12:29] generation: 427, record: 6, best: 3, avg: 0.73
+[2026-11-10 12:12:29] generation: 428, record: 6, best: 5, avg: 0.75
+[2026-11-10 12:12:29] generation: 429, record: 6, best: 5, avg: 0.72
+[2026-11-10 12:12:29] generation: 430, record: 6, best: 4, avg: 0.64
+[2026-11-10 12:12:29] generation: 431, record: 6, best: 4, avg: 0.75
+[2026-11-10 12:12:30] generation: 432, record: 6, best: 6, avg: 0.74
+[2026-11-10 12:12:30] generation: 433, record: 6, best: 5, avg: 0.66
+[2026-11-10 12:12:30] generation: 434, record: 6, best: 5, avg: 0.67
+[2026-11-10 12:12:30] generation: 435, record: 6, best: 4, avg: 0.65
+[2026-11-10 12:12:30] generation: 436, record: 6, best: 4, avg: 0.65
+[2026-11-10 12:12:31] generation: 437, record: 6, best: 4, avg: 0.61
+[2026-11-10 12:12:31] generation: 438, record: 6, best: 5, avg: 0.64
+[2026-11-10 12:12:31] generation: 439, record: 6, best: 5, avg: 0.64
+[2026-11-10 12:12:31] generation: 440, record: 6, best: 5, avg: 0.65
+[2026-11-10 12:12:31] generation: 441, record: 6, best: 5, avg: 0.65
+[2026-11-10 12:12:32] generation: 442, record: 6, best: 5, avg: 0.66
+[2026-11-10 12:12:32] generation: 443, record: 6, best: 5, avg: 0.62
+[2026-11-10 12:12:32] generation: 444, record: 6, best: 5, avg: 0.65
+[2026-11-10 12:12:32] generation: 445, record: 6, best: 4, avg: 0.66
+[2026-11-10 12:12:32] generation: 446, record: 6, best: 4, avg: 0.60
+[2026-11-10 12:12:33] generation: 447, record: 6, best: 4, avg: 0.64
+[2026-11-10 12:12:33] generation: 448, record: 6, best: 5, avg: 0.77
+[2026-11-10 12:12:33] generation: 449, record: 6, best: 5, avg: 0.73
+[2026-11-10 12:12:33] generation: 450, record: 6, best: 5, avg: 0.79
+[2026-11-10 12:12:33] generation: 451, record: 6, best: 4, avg: 0.74
+[2026-11-10 12:12:33] generation: 452, record: 6, best: 5, avg: 0.73
+[2026-11-10 12:12:34] generation: 453, record: 6, best: 6, avg: 0.88
+[2026-11-10 12:12:34] generation: 454, record: 6, best: 5, avg: 0.82
+[2026-11-10 12:12:34] generation: 455, record: 6, best: 5, avg: 0.79
+[2026-11-10 12:12:34] generation: 456, record: 6, best: 4, avg: 0.70
+[2026-11-10 12:12:34] generation: 457, record: 6, best: 6, avg: 0.86
+[2026-11-10 12:12:35] generation: 458, record: 6, best: 6, avg: 0.90
+[2026-11-10 12:12:35] generation: 459, record: 6, best: 6, avg: 0.90
+[2026-11-10 12:12:35] generation: 460, record: 7, best: 7, avg: 0.91
+[2026-11-10 12:12:36] generation: 461, record: 7, best: 5, avg: 0.90
+[2026-11-10 12:12:36] generation: 462, record: 7, best: 6, avg: 0.84
+[2026-11-10 12:12:37] generation: 463, record: 7, best: 6, avg: 1.01
+[2026-11-10 12:12:37] generation: 464, record: 7, best: 6, avg: 1.00
+[2026-11-10 12:12:37] generation: 465, record: 7, best: 5, avg: 0.93
+[2026-11-10 12:12:37] generation: 466, record: 7, best: 6, avg: 0.94
+[2026-11-10 12:12:37] generation: 467, record: 7, best: 5, avg: 0.92
+[2026-11-10 12:12:38] generation: 468, record: 7, best: 7, avg: 1.04
+[2026-11-10 12:12:38] generation: 469, record: 8, best: 8, avg: 1.00
+[2026-11-10 12:12:39] generation: 470, record: 8, best: 6, avg: 1.09
+[2026-11-10 12:12:40] generation: 471, record: 8, best: 6, avg: 1.19
+[2026-11-10 12:12:40] generation: 472, record: 8, best: 6, avg: 1.15
+[2026-11-10 12:12:40] generation: 473, record: 8, best: 6, avg: 1.13
+[2026-11-10 12:12:40] generation: 474, record: 8, best: 7, avg: 1.23
+[2026-11-10 12:12:40] generation: 475, record: 8, best: 7, avg: 1.22
+[2026-11-10 12:12:41] generation: 476, record: 8, best: 6, avg: 1.11
+[2026-11-10 12:12:41] generation: 477, record: 8, best: 7, avg: 1.10
+[2026-11-10 12:12:41] generation: 478, record: 8, best: 7, avg: 1.26
+[2026-11-10 12:12:41] generation: 479, record: 8, best: 7, avg: 1.34
+[2026-11-10 12:12:42] generation: 480, record: 8, best: 7, avg: 1.21
+[2026-11-10 12:12:42] generation: 481, record: 8, best: 8, avg: 1.28
+[2026-11-10 12:12:42] generation: 482, record: 8, best: 8, avg: 1.31
+[2026-11-10 12:12:42] generation: 483, record: 8, best: 8, avg: 1.35
+[2026-11-10 12:12:43] generation: 484, record: 8, best: 7, avg: 1.46
+[2026-11-10 12:12:43] generation: 485, record: 8, best: 7, avg: 1.64
+[2026-11-10 12:12:43] generation: 486, record: 8, best: 7, avg: 1.48
+[2026-11-10 12:12:43] generation: 487, record: 9, best: 9, avg: 1.66
+[2026-11-10 12:12:45] generation: 488, record: 9, best: 7, avg: 1.61
+[2026-11-10 12:12:45] generation: 489, record: 9, best: 9, avg: 1.67
+[2026-11-10 12:12:46] generation: 490, record: 9, best: 9, avg: 1.65
+[2026-11-10 12:12:46] generation: 491, record: 9, best: 8, avg: 1.64
+[2026-11-10 12:12:46] generation: 492, record: 9, best: 8, avg: 1.63
+[2026-11-10 12:12:46] generation: 493, record: 9, best: 9, avg: 1.64
+[2026-11-10 12:12:47] generation: 494, record: 9, best: 9, avg: 1.71
+[2026-11-10 12:12:47] generation: 495, record: 9, best: 8, avg: 1.73
+[2026-11-10 12:12:47] generation: 496, record: 11, best: 11, avg: 1.81
+[2026-11-10 12:12:49] generation: 497, record: 11, best: 11, avg: 1.74
+[2026-11-10 12:12:49] generation: 498, record: 11, best: 10, avg: 1.88
+[2026-11-10 12:12:50] generation: 499, record: 11, best: 8, avg: 1.84
+[2026-11-10 12:12:50] generation: 500, record: 11, best: 8, avg: 1.68
+[2026-11-10 12:12:50] generation: 501, record: 11, best: 8, avg: 1.71
+[2026-11-10 12:12:51] generation: 502, record: 11, best: 9, avg: 1.82
+[2026-11-10 12:12:51] generation: 503, record: 12, best: 12, avg: 1.70
+[2026-11-10 12:12:53] generation: 504, record: 12, best: 9, avg: 1.68
+[2026-11-10 12:12:54] generation: 505, record: 12, best: 10, avg: 1.75
+[2026-11-10 12:12:54] generation: 506, record: 12, best: 8, avg: 1.71
+[2026-11-10 12:12:54] generation: 507, record: 12, best: 9, avg: 1.75
+[2026-11-10 12:12:55] generation: 508, record: 12, best: 9, avg: 1.83
+[2026-11-10 12:12:55] generation: 509, record: 12, best: 9, avg: 1.70
+[2026-11-10 12:12:55] generation: 510, record: 12, best: 10, avg: 1.79
+[2026-11-10 12:12:55] generation: 511, record: 12, best: 8, avg: 1.80
+[2026-11-10 12:12:56] generation: 512, record: 12, best: 9, avg: 1.71
+[2026-11-10 12:12:56] generation: 513, record: 12, best: 12, avg: 1.89
+[2026-11-10 12:12:56] generation: 514, record: 12, best: 10, avg: 2.00
+[2026-11-10 12:12:57] generation: 515, record: 12, best: 10, avg: 1.79
+[2026-11-10 12:12:57] generation: 516, record: 12, best: 9, avg: 1.82
+[2026-11-10 12:12:57] generation: 517, record: 12, best: 9, avg: 1.85
+[2026-11-10 12:12:58] generation: 518, record: 12, best: 9, avg: 1.88
+[2026-11-10 12:12:58] generation: 519, record: 12, best: 11, avg: 1.82
+[2026-11-10 12:12:58] generation: 520, record: 12, best: 10, avg: 1.97
+[2026-11-10 12:12:59] generation: 521, record: 12, best: 10, avg: 1.76
+[2026-11-10 12:12:59] generation: 522, record: 12, best: 9, avg: 1.84
+[2026-11-10 12:12:59] generation: 523, record: 12, best: 8, avg: 1.68
+[2026-11-10 12:13:00] generation: 524, record: 12, best: 10, avg: 1.81
+[2026-11-10 12:13:00] generation: 525, record: 12, best: 8, avg: 1.71
+[2026-11-10 12:13:01] generation: 526, record: 12, best: 9, avg: 1.87
+[2026-11-10 12:13:01] generation: 527, record: 14, best: 14, avg: 1.89
+[2026-11-10 12:13:03] generation: 528, record: 14, best: 9, avg: 1.66
+[2026-11-10 12:13:04] generation: 529, record: 14, best: 10, avg: 1.96
+[2026-11-10 12:13:04] generation: 530, record: 14, best: 9, avg: 1.84
+[2026-11-10 12:13:04] generation: 531, record: 14, best: 9, avg: 1.88
+[2026-11-10 12:13:05] generation: 532, record: 14, best: 11, avg: 1.81
+[2026-11-10 12:13:05] generation: 533, record: 14, best: 9, avg: 1.85
+[2026-11-10 12:13:05] generation: 534, record: 14, best: 10, avg: 1.94
+[2026-11-10 12:13:06] generation: 535, record: 14, best: 9, avg: 2.04
+[2026-11-10 12:13:06] generation: 536, record: 14, best: 10, avg: 2.01
+[2026-11-10 12:13:06] generation: 537, record: 14, best: 8, avg: 2.04
+[2026-11-10 12:13:07] generation: 538, record: 14, best: 10, avg: 2.22
+[2026-11-10 12:13:07] generation: 539, record: 14, best: 9, avg: 1.99
+[2026-11-10 12:13:07] generation: 540, record: 14, best: 10, avg: 2.11
+[2026-11-10 12:13:08] generation: 541, record: 14, best: 13, avg: 2.19
+[2026-11-10 12:13:08] generation: 542, record: 14, best: 12, avg: 2.27
+[2026-11-10 12:13:08] generation: 543, record: 14, best: 10, avg: 2.04
+[2026-11-10 12:13:09] generation: 544, record: 14, best: 11, avg: 2.10
+[2026-11-10 12:13:09] generation: 545, record: 14, best: 10, avg: 2.10
+[2026-11-10 12:13:09] generation: 546, record: 14, best: 11, avg: 2.09
+[2026-11-10 12:13:10] generation: 547, record: 14, best: 10, avg: 2.07
+[2026-11-10 12:13:10] generation: 548, record: 14, best: 10, avg: 2.19
+[2026-11-10 12:13:10] generation: 549, record: 14, best: 11, avg: 1.84
+[2026-11-10 12:13:11] generation: 550, record: 14, best: 10, avg: 2.03
+[2026-11-10 12:13:11] generation: 551, record: 14, best: 10, avg: 1.94
+[2026-11-10 12:13:11] 训练结束，返回主菜单。
+[2026-11-10 12:18:53] 未发现续训存档，从最强成果（90 分）热启动
+[2026-11-10 12:18:55] generation: 1, record: 90, best: 79, avg: 27.74
+[2026-11-10 12:19:04] generation: 2, record: 96, best: 96, avg: 29.07
+[2026-11-10 12:19:14] 训练结束，返回主菜单。
+[2026-11-10 12:19:15] 回放最强基因（96 分）
+[2026-11-10 12:19:18] 检测到训练存档，从第 2 代继续，历史最高 96
+[2026-11-10 12:19:20] generation: 3, record: 96, best: 74, avg: 25.13
+[2026-11-10 12:19:28] generation: 4, record: 96, best: 82, avg: 27.51
+[2026-11-10 12:19:37] generation: 5, record: 96, best: 75, avg: 27.72
+[2026-11-10 12:19:46] generation: 6, record: 96, best: 87, avg: 29.17
+[2026-11-10 12:19:55] generation: 7, record: 96, best: 83, avg: 29.44
+[2026-11-10 12:20:03] generation: 8, record: 96, best: 80, avg: 27.96
+[2026-11-10 12:20:11] generation: 9, record: 96, best: 79, avg: 27.68
+[2026-11-10 14:56:44] 路径 AI 完成，得分 99。
+[2026-11-10 14:57:31] 检测到训练存档，从第 9 代继续，历史最高 79
+[2026-11-10 14:57:33] generation: 10, record: 79, best: 78, avg: 33.34
+[2026-11-10 14:57:57] generation: 11, record: 79, best: 77, avg: 27.72
+[2026-11-10 14:58:05] generation: 12, record: 79, best: 76, avg: 28.23
+[2026-11-10 14:58:15] generation: 13, record: 79, best: 73, avg: 26.12
+[2026-11-10 14:58:24] generation: 14, record: 80, best: 80, avg: 28.47
+[2026-11-10 14:59:03] generation: 15, record: 80, best: 78, avg: 28.56
+[2026-11-10 14:59:11] generation: 16, record: 80, best: 79, avg: 26.14
+[2026-11-10 14:59:21] generation: 17, record: 80, best: 77, avg: 26.94
+[2026-11-10 14:59:29] generation: 18, record: 80, best: 76, avg: 26.73
+[2026-11-10 14:59:37] generation: 19, record: 80, best: 76, avg: 26.48
+[2026-11-10 15:10:41] 回放最强基因（96 分）
+[2026-11-10 15:22:56] 回放最强基因（96 分），可切换速度档位
+[2026-11-10 17:28:38] 检测到训练存档，从第 19 代继续，历史最高 76
+[2026-11-10 17:28:40] generation: 20, record: 76, best: 76, avg: 29.28
+[2026-11-10 17:28:49] generation: 21, record: 76, best: 76, avg: 26.99
+[2026-11-10 17:28:57] generation: 22, record: 76, best: 74, avg: 27.30
+[2026-11-10 17:29:06] generation: 23, record: 77, best: 77, avg: 26.65
+[2026-11-10 17:29:52] generation: 24, record: 80, best: 80, avg: 27.97
+[2026-11-10 17:30:52] generation: 25, record: 80, best: 76, avg: 27.10
+[2026-11-10 17:30:52] 训练结束，返回主菜单。
+[2026-11-10 18:09:14] 检测到训练存档，从第 25 代继续，历史最高 76
+[2026-11-10 18:09:16] generation: 26, record: 76, best: 71, avg: 24.73
+[2026-11-10 18:09:25] generation: 27, record: 77, best: 77, avg: 30.34
+[2026-11-10 18:09:58] generation: 28, record: 87, best: 87, avg: 27.19
+[2026-11-10 18:10:48] generation: 29, record: 87, best: 80, avg: 26.38
+[2026-11-10 18:10:56] generation: 30, record: 87, best: 75, avg: 27.17
+[2026-11-10 18:11:05] generation: 31, record: 87, best: 76, avg: 28.47
+[2026-11-10 18:11:13] generation: 32, record: 87, best: 78, avg: 27.01
+[2026-11-10 18:11:22] generation: 33, record: 87, best: 79, avg: 29.49
+[2026-11-10 18:11:31] generation: 34, record: 87, best: 78, avg: 27.84
+[2026-11-10 18:11:39] generation: 35, record: 87, best: 76, avg: 27.57
+[2026-11-10 18:11:47] generation: 36, record: 87, best: 79, avg: 26.88
+[2026-11-10 18:11:56] generation: 37, record: 89, best: 89, avg: 28.50
+[2026-11-10 18:12:50] generation: 38, record: 89, best: 85, avg: 29.23
+[2026-11-10 18:12:58] generation: 39, record: 89, best: 80, avg: 27.82
+[2026-11-10 18:13:06] generation: 40, record: 89, best: 78, avg: 26.61
+[2026-11-10 18:13:14] generation: 41, record: 89, best: 76, avg: 25.46
+[2026-11-10 18:13:21] generation: 42, record: 89, best: 76, avg: 25.61
+[2026-11-10 18:13:29] generation: 43, record: 89, best: 79, avg: 25.33
+[2026-11-10 18:13:37] generation: 44, record: 89, best: 79, avg: 26.86
+[2026-11-10 18:13:45] generation: 45, record: 89, best: 84, avg: 26.03
+[2026-11-10 18:13:52] generation: 46, record: 89, best: 80, avg: 25.12
+[2026-11-10 18:14:01] generation: 47, record: 89, best: 89, avg: 28.13
+[2026-11-10 18:14:08] generation: 48, record: 89, best: 79, avg: 26.29
+[2026-11-10 18:14:16] generation: 49, record: 89, best: 77, avg: 26.89
+[2026-11-10 18:14:24] generation: 50, record: 89, best: 76, avg: 25.39
+[2026-11-10 18:14:31] generation: 51, record: 89, best: 79, avg: 26.66
+[2026-11-10 18:14:40] generation: 52, record: 89, best: 76, avg: 28.10
+[2026-11-10 18:14:48] generation: 53, record: 89, best: 73, avg: 28.63
+[2026-11-10 18:14:56] generation: 54, record: 89, best: 74, avg: 27.83
+[2026-11-10 18:15:04] generation: 55, record: 89, best: 77, avg: 26.67
+[2026-11-10 18:15:11] generation: 56, record: 89, best: 77, avg: 26.74
+[2026-11-10 18:15:20] generation: 57, record: 89, best: 74, avg: 27.73
+[2026-11-10 18:15:28] generation: 58, record: 89, best: 77, avg: 26.82
+[2026-11-10 18:15:36] generation: 59, record: 89, best: 79, avg: 28.57
+[2026-11-10 18:15:45] generation: 60, record: 89, best: 82, avg: 30.40
+[2026-11-10 18:15:54] generation: 61, record: 89, best: 86, avg: 29.21
+[2026-11-10 18:16:02] generation: 62, record: 89, best: 77, avg: 29.14
+[2026-11-10 18:16:11] generation: 63, record: 89, best: 78, avg: 29.68
+[2026-11-10 18:16:20] generation: 64, record: 89, best: 78, avg: 29.14
+[2026-11-10 18:16:29] generation: 65, record: 89, best: 78, avg: 29.86
+[2026-11-10 18:16:38] generation: 66, record: 89, best: 80, avg: 29.78
+[2026-11-10 18:16:47] generation: 67, record: 89, best: 80, avg: 29.12
+[2026-11-10 18:16:55] generation: 68, record: 89, best: 77, avg: 27.33
+[2026-11-10 18:17:03] generation: 69, record: 89, best: 76, avg: 28.82
+[2026-11-10 18:17:11] generation: 70, record: 89, best: 76, avg: 27.11
+[2026-11-10 18:17:20] generation: 71, record: 89, best: 81, avg: 27.48
+[2026-11-10 18:17:28] generation: 72, record: 89, best: 79, avg: 27.95
+[2026-11-10 18:17:36] generation: 73, record: 89, best: 82, avg: 27.50
+[2026-11-10 18:17:45] generation: 74, record: 89, best: 79, avg: 28.64
+[2026-11-10 18:17:54] generation: 75, record: 93, best: 93, avg: 28.77
+[2026-11-10 18:18:38] generation: 76, record: 93, best: 84, avg: 27.44
+[2026-11-10 18:18:47] generation: 77, record: 93, best: 85, avg: 28.67
+[2026-11-10 18:18:55] generation: 78, record: 93, best: 87, avg: 29.31
+[2026-11-10 18:19:04] generation: 79, record: 93, best: 80, avg: 28.50
+[2026-11-10 18:19:12] generation: 80, record: 93, best: 84, avg: 29.14
+[2026-11-10 18:19:21] generation: 81, record: 93, best: 86, avg: 28.10
+[2026-11-10 18:19:30] generation: 82, record: 93, best: 86, avg: 30.10
+[2026-11-10 18:19:39] generation: 83, record: 93, best: 84, avg: 29.51
+[2026-11-10 18:19:48] generation: 84, record: 93, best: 81, avg: 28.82
+[2026-11-10 18:19:57] generation: 85, record: 93, best: 86, avg: 29.95
+[2026-11-10 18:20:05] generation: 86, record: 93, best: 91, avg: 28.57
+[2026-11-10 18:20:14] generation: 87, record: 93, best: 85, avg: 29.70
+[2026-11-10 18:20:22] generation: 88, record: 93, best: 81, avg: 28.34
+[2026-11-10 18:20:31] generation: 89, record: 93, best: 81, avg: 29.72
+[2026-11-10 18:20:41] generation: 90, record: 93, best: 92, avg: 31.16
+[2026-11-10 18:20:50] generation: 91, record: 93, best: 89, avg: 31.82
+[2026-11-10 18:21:00] generation: 92, record: 93, best: 88, avg: 32.55
+[2026-11-10 18:21:09] generation: 93, record: 93, best: 84, avg: 30.89
+[2026-11-10 18:21:18] generation: 94, record: 93, best: 81, avg: 31.28
+[2026-11-10 18:21:28] generation: 95, record: 93, best: 84, avg: 33.01
+[2026-11-10 18:21:37] generation: 96, record: 93, best: 85, avg: 30.72
+[2026-11-10 18:21:47] generation: 97, record: 93, best: 86, avg: 31.80
+[2026-11-10 18:21:56] generation: 98, record: 93, best: 86, avg: 30.87
+[2026-11-10 18:22:06] generation: 99, record: 93, best: 88, avg: 33.18
+[2026-11-10 18:22:16] generation: 100, record: 93, best: 89, avg: 33.16
+[2026-11-10 18:22:25] generation: 101, record: 93, best: 87, avg: 31.74
+[2026-11-10 18:22:35] generation: 102, record: 93, best: 93, avg: 32.40
+[2026-11-10 18:22:44] generation: 103, record: 99, best: 99, avg: 30.62
+[2026-11-10 18:23:26] generation: 104, record: 99, best: 79, avg: 31.89
+[2026-11-10 18:23:35] generation: 105, record: 99, best: 84, avg: 29.85
+[2026-11-10 18:23:45] generation: 106, record: 99, best: 90, avg: 31.17
+[2026-11-10 18:23:54] generation: 107, record: 99, best: 87, avg: 29.41
+[2026-11-10 18:24:03] generation: 108, record: 99, best: 99, avg: 30.40
+[2026-11-10 18:24:13] generation: 109, record: 99, best: 87, avg: 31.59
+[2026-11-10 18:24:22] generation: 110, record: 99, best: 80, avg: 31.81
+[2026-11-10 18:24:32] generation: 111, record: 99, best: 87, avg: 32.15
+[2026-11-10 18:24:42] generation: 112, record: 99, best: 91, avg: 32.41
+[2026-11-10 18:24:51] generation: 113, record: 99, best: 87, avg: 32.00
+[2026-11-10 18:25:00] generation: 114, record: 99, best: 92, avg: 31.07
+[2026-11-10 18:25:10] generation: 115, record: 99, best: 84, avg: 31.18
+[2026-11-10 18:25:19] generation: 116, record: 99, best: 81, avg: 30.65
+[2026-11-10 18:25:28] generation: 117, record: 99, best: 85, avg: 29.80
+[2026-11-10 18:25:37] generation: 118, record: 99, best: 81, avg: 31.77
+[2026-11-10 18:25:46] generation: 119, record: 99, best: 89, avg: 31.18
+[2026-11-10 18:25:55] generation: 120, record: 99, best: 81, avg: 30.00
+[2026-11-10 18:26:04] generation: 121, record: 99, best: 88, avg: 29.19
+[2026-11-10 18:26:14] generation: 122, record: 99, best: 82, avg: 32.51
+[2026-11-10 18:26:22] generation: 123, record: 99, best: 83, avg: 30.13
+[2026-11-10 18:26:32] generation: 124, record: 99, best: 84, avg: 30.84
+[2026-11-10 18:26:41] generation: 125, record: 99, best: 82, avg: 31.85
+[2026-11-10 18:26:50] generation: 126, record: 99, best: 86, avg: 31.59
+[2026-11-10 18:27:00] generation: 127, record: 99, best: 96, avg: 32.25
+[2026-11-10 18:27:09] generation: 128, record: 99, best: 89, avg: 31.08
+[2026-11-10 18:27:18] generation: 129, record: 99, best: 83, avg: 29.13
+[2026-11-10 18:27:27] generation: 130, record: 99, best: 86, avg: 31.10
+[2026-11-10 18:27:36] generation: 131, record: 99, best: 82, avg: 30.75
+[2026-11-10 18:27:46] generation: 132, record: 99, best: 86, avg: 32.22
+[2026-11-10 18:27:56] generation: 133, record: 99, best: 83, avg: 33.11
+[2026-11-10 18:28:05] generation: 134, record: 99, best: 86, avg: 33.02
+[2026-11-10 18:28:15] generation: 135, record: 99, best: 86, avg: 31.05
+[2026-11-10 18:28:24] generation: 136, record: 99, best: 81, avg: 32.43
+[2026-11-10 18:28:34] generation: 137, record: 99, best: 86, avg: 32.30
+[2026-11-10 18:28:44] generation: 138, record: 99, best: 80, avg: 33.25
+[2026-11-10 18:28:54] generation: 139, record: 99, best: 84, avg: 33.17
+[2026-11-10 18:29:03] generation: 140, record: 99, best: 85, avg: 31.02
+[2026-11-10 18:29:13] generation: 141, record: 99, best: 81, avg: 31.50
+[2026-11-10 18:29:22] generation: 142, record: 99, best: 85, avg: 31.34
+[2026-11-10 18:29:32] generation: 143, record: 99, best: 92, avg: 31.74
+[2026-11-10 18:29:42] generation: 144, record: 99, best: 87, avg: 34.05
+[2026-11-10 18:29:52] generation: 145, record: 99, best: 95, avg: 32.31
+[2026-11-10 18:30:02] generation: 146, record: 99, best: 84, avg: 31.89
+[2026-11-10 18:30:11] generation: 147, record: 99, best: 89, avg: 29.86
+[2026-11-10 18:30:20] generation: 148, record: 99, best: 91, avg: 30.44
+[2026-11-10 18:30:29] generation: 149, record: 99, best: 99, avg: 33.35
+[2026-11-10 18:30:39] generation: 150, record: 99, best: 85, avg: 33.67
+[2026-11-10 18:30:49] generation: 151, record: 99, best: 85, avg: 32.90
+[2026-11-10 18:30:58] generation: 152, record: 99, best: 99, avg: 31.83
+[2026-11-10 18:31:07] generation: 153, record: 99, best: 86, avg: 31.51
+[2026-11-10 18:31:17] generation: 154, record: 99, best: 87, avg: 32.72
+[2026-11-10 18:31:26] generation: 155, record: 99, best: 90, avg: 31.09
+[2026-11-10 18:31:36] generation: 156, record: 99, best: 86, avg: 31.83
+[2026-11-10 18:31:46] generation: 157, record: 99, best: 90, avg: 33.24
+[2026-11-10 18:31:56] generation: 158, record: 99, best: 99, avg: 34.70
+[2026-11-10 18:32:06] generation: 159, record: 99, best: 90, avg: 33.51
+[2026-11-10 18:32:16] generation: 160, record: 99, best: 87, avg: 32.65
+[2026-11-10 18:32:25] generation: 161, record: 99, best: 94, avg: 31.07
+[2026-11-10 18:32:35] generation: 162, record: 99, best: 95, avg: 34.17
+[2026-11-10 18:32:45] generation: 163, record: 99, best: 99, avg: 33.71
+[2026-11-10 18:32:54] generation: 164, record: 99, best: 97, avg: 31.67
+[2026-11-10 18:33:03] generation: 165, record: 99, best: 98, avg: 31.04
+[2026-11-10 18:33:12] generation: 166, record: 99, best: 93, avg: 31.13
+[2026-11-10 18:33:21] generation: 167, record: 99, best: 92, avg: 31.48
+[2026-11-10 18:33:31] generation: 168, record: 99, best: 86, avg: 32.51
+[2026-11-10 18:33:41] generation: 169, record: 99, best: 94, avg: 32.23
+[2026-11-10 18:33:51] generation: 170, record: 99, best: 99, avg: 35.38
+[2026-11-10 18:34:00] generation: 171, record: 99, best: 89, avg: 31.73
+[2026-11-10 18:34:10] generation: 172, record: 99, best: 88, avg: 31.73
+[2026-11-10 18:34:20] generation: 173, record: 99, best: 99, avg: 34.19
+[2026-11-10 18:34:30] generation: 174, record: 99, best: 95, avg: 32.37
+[2026-11-10 18:34:40] generation: 175, record: 99, best: 96, avg: 35.55
+[2026-11-10 18:34:51] generation: 176, record: 99, best: 99, avg: 34.26
+[2026-11-10 18:35:01] generation: 177, record: 99, best: 92, avg: 34.25
+[2026-11-10 18:35:11] generation: 178, record: 99, best: 99, avg: 33.37
+[2026-11-10 18:35:21] generation: 179, record: 99, best: 99, avg: 31.45
+[2026-11-10 18:35:31] generation: 180, record: 99, best: 99, avg: 33.06
+[2026-11-10 18:35:40] generation: 181, record: 99, best: 99, avg: 30.79
+[2026-11-10 18:35:50] generation: 182, record: 99, best: 99, avg: 34.07
+[2026-11-10 18:35:59] generation: 183, record: 99, best: 90, avg: 30.72
+[2026-11-10 18:36:09] generation: 184, record: 99, best: 99, avg: 31.48
+[2026-11-10 18:36:18] generation: 185, record: 99, best: 90, avg: 31.62
+[2026-11-10 18:36:28] generation: 186, record: 99, best: 91, avg: 32.57
+[2026-11-10 18:36:38] generation: 187, record: 99, best: 97, avg: 33.35
+[2026-11-10 18:36:48] generation: 188, record: 99, best: 95, avg: 32.32
+[2026-11-10 18:36:57] generation: 189, record: 99, best: 99, avg: 30.28
+[2026-11-10 18:37:06] generation: 190, record: 99, best: 99, avg: 33.93
+[2026-11-10 18:37:17] generation: 191, record: 99, best: 99, avg: 35.00
+[2026-11-10 18:37:27] generation: 192, record: 99, best: 99, avg: 33.22
+[2026-11-10 18:37:37] generation: 193, record: 99, best: 99, avg: 32.39
+[2026-11-10 18:37:46] generation: 194, record: 99, best: 91, avg: 32.86
+[2026-11-10 18:37:56] generation: 195, record: 99, best: 93, avg: 31.84
+[2026-11-10 18:38:05] generation: 196, record: 99, best: 92, avg: 32.24
+[2026-11-10 18:38:15] generation: 197, record: 99, best: 99, avg: 34.25
+[2026-11-10 18:38:24] generation: 198, record: 99, best: 97, avg: 30.50
+[2026-11-10 18:38:39] generation: 199, record: 99, best: 99, avg: 32.27
+[2026-11-10 18:38:39] 训练结束，返回主菜单。
+[2026-11-10 18:40:21] 回放最强基因（99 分），可切换速度档位
+[2026-11-10 18:58:41] 回放最强基因（99 分），可切换速度档位
+[2026-11-10 18:59:34] 路径 AI 完成，得分 99。
+[2026-11-10 19:35:01] 检测到训练存档，从第 199 代继续，历史最高 99
+[2026-11-10 19:35:04] generation: 200, record: 99, best: 87, avg: 37.85
+[2026-11-10 19:35:15] generation: 201, record: 99, best: 93, avg: 33.09
+[2026-11-10 19:35:33] generation: 202, record: 99, best: 99, avg: 33.35
+[2026-11-10 19:35:33] 训练结束，返回主菜单。
+[2026-11-10 19:35:34] 回放最强基因（99 分），可切换速度档位
+[2026-11-10 19:36:21] 检测到训练存档，从第 202 代继续，历史最高 99
+[2026-11-10 19:36:23] generation: 203, record: 99, best: 93, avg: 37.74
+[2026-11-10 19:36:46] generation: 204, record: 99, best: 99, avg: 34.85
+[2026-11-10 19:36:58] generation: 205, record: 99, best: 94, avg: 32.97
+[2026-11-10 19:37:10] generation: 206, record: 99, best: 99, avg: 32.25
+[2026-11-10 19:37:21] generation: 207, record: 99, best: 95, avg: 31.37
+[2026-11-10 19:37:21] 训练结束，返回主菜单。
+[2026-11-10 19:52:56] 检测到训练存档，从第 207 代继续，历史最高 95
+[2026-11-10 19:52:59] generation: 208, record: 95, best: 91, avg: 36.12
+[2026-11-10 19:53:22] generation: 209, record: 99, best: 99, avg: 30.82
+[2026-11-10 19:54:34] generation: 210, record: 99, best: 99, avg: 30.48
+[2026-11-10 19:55:22] generation: 211, record: 99, best: 96, avg: 32.05
+[2026-11-10 19:55:32] generation: 212, record: 99, best: 99, avg: 31.56
+[2026-11-10 19:55:43] generation: 213, record: 99, best: 90, avg: 31.93
+[2026-11-10 19:55:53] generation: 214, record: 99, best: 96, avg: 31.78
+[2026-11-10 19:56:04] generation: 215, record: 99, best: 99, avg: 33.63
+[2026-11-10 19:56:48] generation: 216, record: 99, best: 95, avg: 33.08
+[2026-11-10 19:56:58] generation: 217, record: 99, best: 99, avg: 31.91
+[2026-11-10 19:57:09] generation: 218, record: 99, best: 99, avg: 33.33
+[2026-11-10 19:57:20] generation: 219, record: 99, best: 96, avg: 31.94
+[2026-11-10 19:57:32] generation: 220, record: 99, best: 99, avg: 32.26
+[2026-11-10 19:57:44] generation: 221, record: 99, best: 94, avg: 31.84
+[2026-11-10 19:57:54] generation: 222, record: 99, best: 91, avg: 32.93
+[2026-11-10 19:58:04] generation: 223, record: 99, best: 96, avg: 33.07
+[2026-11-10 19:58:15] generation: 224, record: 99, best: 99, avg: 32.98
+[2026-11-10 19:58:28] generation: 225, record: 99, best: 93, avg: 36.92
+[2026-11-10 19:58:39] generation: 226, record: 99, best: 97, avg: 33.91
+[2026-11-10 19:58:50] generation: 227, record: 99, best: 99, avg: 33.18
+[2026-11-10 19:59:01] generation: 228, record: 99, best: 97, avg: 35.26
+[2026-11-10 19:59:12] generation: 229, record: 99, best: 99, avg: 34.91
+[2026-11-10 19:59:54] generation: 230, record: 99, best: 99, avg: 33.44
+[2026-11-10 20:00:06] generation: 231, record: 99, best: 99, avg: 34.55
+[2026-11-10 20:00:17] generation: 232, record: 99, best: 99, avg: 34.64
+[2026-11-10 20:00:28] generation: 233, record: 99, best: 99, avg: 33.32
+[2026-11-10 20:00:39] generation: 234, record: 99, best: 99, avg: 34.71
+[2026-11-10 20:00:49] generation: 235, record: 99, best: 99, avg: 34.34
+[2026-11-10 20:01:00] generation: 236, record: 99, best: 99, avg: 34.42
+[2026-11-10 20:01:10] generation: 237, record: 99, best: 93, avg: 32.69
+[2026-11-10 20:01:20] generation: 238, record: 99, best: 99, avg: 32.63
+[2026-11-10 20:01:30] generation: 239, record: 99, best: 94, avg: 32.25
+[2026-11-10 20:01:40] generation: 240, record: 99, best: 99, avg: 30.77
+[2026-11-10 20:01:50] generation: 241, record: 99, best: 99, avg: 33.30
+[2026-11-10 20:02:00] generation: 242, record: 99, best: 90, avg: 31.68
+[2026-11-10 20:02:10] generation: 243, record: 99, best: 96, avg: 32.42
+[2026-11-10 20:02:20] generation: 244, record: 99, best: 99, avg: 32.01
+[2026-11-10 20:02:31] generation: 245, record: 99, best: 94, avg: 31.71
+[2026-11-10 20:02:41] generation: 246, record: 99, best: 99, avg: 30.97
+[2026-11-10 20:02:52] generation: 247, record: 99, best: 96, avg: 32.56
+[2026-11-10 20:02:52] 训练结束，返回主菜单。
+[2026-11-10 20:02:54] 回放最强基因（99 分、1897 步），可切换速度档位
+[2026-11-11 21:53:35] 检测到训练存档，从第 247 代继续，历史最高 96
+[2026-11-11 21:53:37] generation: 248, record: 96, best: 88, avg: 35.14
+[2026-11-11 21:53:47] generation: 249, record: 96, best: 99, avg: 31.12
+[2026-11-11 21:53:47] 训练结束，返回主菜单。
+[2026-11-12 19:34:54] 回放最强基因（99 分、1897 步），可切换速度档位
+[2026-11-14 19:01:33] 回放最强基因（99 分、1897 步），可切换速度档位
