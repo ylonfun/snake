@@ -1600,3 +1600,28 @@ SnakeEnv 三方法在相同 5 个 seed（5000–5004）、动态期限下口径�
     新 40 维均分 20.9 > 旧 32 维 18.0，撞身是主要死因（26 vs 29 局）。
 - 未做：不做长时间整段重训（会覆盖生产 checkpoint，收益低）；pygame 真实窗口未在
   用户桌面弹窗，全部用 SDL_VIDEODRIVER=dummy 渲染后存 PNG 目检（历史截图已确认过真机）。
+
+### GitHub 开源上传（ylonfun/snake）
+- 目标：把全量项目（36 个产品 .py、全部模型存档、文档、验证脚本，共 1359 个跟踪文件）
+  上传到 GitHub，并配套完整中文 README。
+- 账号与仓库：用户当前登录账号为 ylonfun（旧账号 Ackeraa 保留），在网页新建空仓库
+  ylonfun/snake（Public，无 README/无 .gitignore/无 license），本地 remote 指向该仓库。
+- 网络问题与处置（本环境的关键踩坑）：
+  - github.com 主站可访问，但 api.github.com 连接超时（API 不可用）；DNS 间歇性被污染，
+    github.com 一度解析到非官方 IP（57.155.223.240），DoH（dns.alidns.com）确认真实
+    IP 为 20.6.7.17；/login/oauth/authorize 端点 ERR_CONNECTION_RESET，浏览器 OAuth 走不通。
+  - 方案一（GCM 浏览器 OAuth）失败：后台进程无 TTY，且授权端点被重置。
+  - 方案二（fine-grained PAT）：用户在 github.com/settings/tokens 生成细粒度令牌，
+    Repository access 选 Only select repositories → snake，Contents 设 Read and write；
+    首次推送 403 是权限未生效，编辑令牌补全权限后通过。
+  - 方案三（整包推送）失败：39MB 单包上传两次被 curl 55 Connection reset。
+  - 最终方案：本地起用户态 DoH 代理（127.0.0.1:61180，DoH 解析 + CONNECT 隧道，无需
+    管理员），git 经 HTTPS_PROXY 走该代理；把历史拆成 11 个分块提交（代码文档 →
+    各模型存档 → genes 分目录 → snake.gif → bgm.mp3），逐块推送，每块 0.7~5.7MB，
+    全部成功；最后一块首次响应为 ref 已在目标值（内部重试导致），ls-remote 核验远程
+    main 与本地 HEAD 逐位一致（e1fb0ed）。
+- README：重写为中文说明文档，含项目一句话介绍、效果速览（含大棋盘 global_cycle 数据）、
+  8 个菜单模式逐一解释、目录结构、快速开始、训练脚本、模型存档说明、技术路线与关键结论、
+  文档与视频索引。.gitignore 补充 *.pyc/编辑器目录；requirements.txt 修正为实际依赖
+  pygame + numpy（torch 已移除，产品代码不依赖）。
+- 安全提醒：令牌曾出现在对话中，建议任务确认后在 GitHub 撤销并重新生成。
